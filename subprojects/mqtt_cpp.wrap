@@ -1,0 +1,4 @@
+[wrap-git]
+url = https://github.com/redboltz/mqtt_cpp
+revision = v13.0.0
+depth = 1
